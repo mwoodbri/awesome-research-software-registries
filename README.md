@@ -36,6 +36,7 @@ Institute of Technology overview of software packages.
 * [b2find.eudat.eu](http://b2find.eudat.eu/dataset?q=software) - Data and
   software discovery service based on metadata harvested from research data
   collections from EUDAT data centres and other repositories.
+* [Imperial College London Research Software Directory](https://imperialcollegelondon.github.io/research-software-directory/)
 * [kb.nl](http://lab.kb.nl/) - Dutch Royal Library.
 * [lbl.gov](https://lbl.gov) - Lawrence Berkeley National Lab.
   * [Applied Mathematics Software](https://crd.lbl.gov/software/applied-mathematics-software/)
